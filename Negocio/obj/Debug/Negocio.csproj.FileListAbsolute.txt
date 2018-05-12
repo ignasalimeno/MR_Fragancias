@@ -1,0 +1,70 @@
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+C:\Users\Mariano\Desktop\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\Mariano\Desktop\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+C:\Users\Mariano\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adm\Desktop\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\Adm\Desktop\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adm\Desktop\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\Negocio\obj\Debug\Negocio.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\bin\Debug\Negocio.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb

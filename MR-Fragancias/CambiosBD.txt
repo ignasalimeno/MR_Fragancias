@@ -1,0 +1,69 @@
+USE [MRFragancias]
+GO
+
+/****** Object:  Table [dbo].[PedidosMuestra]    Script Date: 08/07/2017 22:53:50 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[PedidosMuestra](
+	[idPedidoMuestra] [int] NOT NULL,
+	[idCliente] [int] NULL,
+	[idContacto] [int] NULL,
+	[Vendedor] [nvarchar](250) NULL,
+	[FechaEntregaCliente] [date] NULL,
+	[ProductoFinal] [text] NULL,
+	[FechaSolicitud] [date] NULL,
+	[Aplicacion] [bit] NULL,
+	[BaseCliente] [bit] NULL,
+	[Costo] [float] NULL,
+	[Gramos] [float] NULL,
+ CONSTRAINT [PK_PedidosMuestra] PRIMARY KEY CLUSTERED 
+(
+	[idPedidoMuestra] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+
+USE [MRFragancias]
+GO
+
+/****** Object:  Table [dbo].[PedidosMuestra_Fragancias]    Script Date: 08/07/2017 22:54:00 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[PedidosMuestra_Fragancias](
+	[idPedidoMuestra] [int] NOT NULL,
+	[idFragancia] [int] NOT NULL,
+	[NombreVenta] [nvarchar](150) NOT NULL,
+	[NombreReal] [nvarchar](max) NULL,
+	[idFragComb] [int] NULL,
+	[CombPrincipal] [nvarchar](50) NULL,
+	[idComb] [int] NULL,
+	[Porcentaje] [float] NULL,
+	[Costo] [float] NULL,
+	[CostoCalculado] [float] NULL,
+	[CostoComb] [float] NULL,
+	[Gramos] [float] NULL,
+	[Markup] [float] NULL,
+	[PrecioVta] [float] NULL,
+	[Presentada] [bit] NULL,
+	[Vendida] [bit] NULL,
+ CONSTRAINT [PK_PedidoMuestra_Fragancias] PRIMARY KEY CLUSTERED 
+(
+	[idPedidoMuestra] ASC,
+	[idFragancia] ASC,
+	[NombreVenta] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+

@@ -1,0 +1,39 @@
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Mariano\Desktop\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Mariano\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Desktop\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Adm\Desktop\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Adm\Desktop\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\AccesoADatos\obj\Debug\AccesoADatos.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb

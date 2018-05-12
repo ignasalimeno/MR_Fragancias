@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A01285A4-F0D9-4D98-BDD3-020A28A7FC3C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MR_Fragancias</RootNamespace>
+    <AssemblyName>MR-Fragancias</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics2.Shared.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.Misc.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.SupportDialogs.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinCalcManager.v12.1.FormulaBuilder, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinListView.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinToolbars.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTree.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Win.v12.1, Version=12.1.20121.1001, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word1">
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Visual Studio Tools for Office\PIA\Office14\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls, Version=2013.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Telerik\RadControls for WinForms Q1 2013\Bin\Telerik.WinControls.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.GridView, Version=2013.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Telerik\RadControls for WinForms Q1 2013\Bin\Telerik.WinControls.GridView.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Aqua, Version=2013.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Telerik\RadControls for WinForms Q1 2013\Bin\Telerik.WinControls.Themes.Aqua.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.UI, Version=2013.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Telerik\RadControls for WinForms Q1 2013\Bin\Telerik.WinControls.UI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TelerikCommon, Version=2013.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Telerik\RadControls for WinForms Q1 2013\Bin\TelerikCommon.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuscarPedidoMuestra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPedidoMuestra.Designer.cs">
+      <DependentUpon>BuscarPedidoMuestra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CambiarPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiarPassword.Designer.cs">
+      <DependentUpon>CambiarPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Costos_Historial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Costos_Historial.Designer.cs">
+      <DependentUpon>Costos_Historial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragancias_Aplicaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragancias_Aplicaciones.Designer.cs">
+      <DependentUpon>Fragancias_Aplicaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputBox.Designer.cs">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maestros\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maestros\Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maestros\Fragancias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maestros\Fragancias.Designer.cs">
+      <DependentUpon>Fragancias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MRFraganciasDataSet.cs">
+      <DependentUpon>MRFraganciasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MRFraganciasDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MRFraganciasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MRFraganciasDataSet1.cs">
+      <DependentUpon>MRFraganciasDataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MRFraganciasDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MRFraganciasDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MRFraganciasDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MRFraganciasDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MRFraganciasDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MRFraganciasDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PedidoDeMuestra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PedidoDeMuestra.Designer.cs">
+      <DependentUpon>PedidoDeMuestra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PedidoDeMuestra_Combinacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PedidoDeMuestra_Combinacion.Designer.cs">
+      <DependentUpon>PedidoDeMuestra_Combinacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\Form_Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Form_Reporte.Designer.cs">
+      <DependentUpon>Form_Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Reporte_PorCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Reporte_PorCliente.Designer.cs">
+      <DependentUpon>Reporte_PorCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Reporte_PorFragancia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Reporte_PorFragancia.Designer.cs">
+      <DependentUpon>Reporte_PorFragancia.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BuscarPedidoMuestra.resx">
+      <DependentUpon>BuscarPedidoMuestra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambiarPassword.resx">
+      <DependentUpon>CambiarPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Costos_Historial.resx">
+      <DependentUpon>Costos_Historial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragancias_Aplicaciones.resx">
+      <DependentUpon>Fragancias_Aplicaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maestros\Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maestros\Fragancias.resx">
+      <DependentUpon>Fragancias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidoDeMuestra.resx">
+      <DependentUpon>PedidoDeMuestra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidoDeMuestra_Combinacion.resx">
+      <DependentUpon>PedidoDeMuestra_Combinacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reportes\Form_Reporte.resx">
+      <DependentUpon>Form_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Report1.rdlc" />
+    <EmbeddedResource Include="Reportes\Report2.rdlc" />
+    <EmbeddedResource Include="Reportes\Reporte_Fragancia.rdlc" />
+    <EmbeddedResource Include="Reportes\Reporte_PorCliente.resx">
+      <DependentUpon>Reporte_PorCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Reporte_PorFragancia.resx">
+      <DependentUpon>Reporte_PorFragancia.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="MRFraganciasDataSet.xsc">
+      <DependentUpon>MRFraganciasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MRFraganciasDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MRFraganciasDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MRFraganciasDataSet.xss">
+      <DependentUpon>MRFraganciasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MRFraganciasDataSet1.xsc">
+      <DependentUpon>MRFraganciasDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MRFraganciasDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MRFraganciasDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MRFraganciasDataSet1.xss">
+      <DependentUpon>MRFraganciasDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MRFraganciasDataSet2.xsc">
+      <DependentUpon>MRFraganciasDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="MRFraganciasDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MRFraganciasDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MRFraganciasDataSet2.xss">
+      <DependentUpon>MRFraganciasDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="MRFraganciasDataSet3.xsc">
+      <DependentUpon>MRFraganciasDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="MRFraganciasDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MRFraganciasDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MRFraganciasDataSet3.xss">
+      <DependentUpon>MRFraganciasDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{e5485ca2-1992-4608-ab2c-74b2c0b5523e}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clients_45x45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clients_60x60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\del_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mod_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass_60x60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frag_60x60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_15x15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus_15x15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pedido_60x60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venta_20x20.png" />
+    <None Include="Resources\vis_20x20.png" />
+    <None Include="Resources\pedidomuestra_60x60.png" />
+    <None Include="Resources\impr_20x20.png" />
+    <None Include="Resources\report_clie_60x60.png" />
+    <None Include="Resources\report_frag_60x60.png" />
+    <Content Include="Resources\script.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

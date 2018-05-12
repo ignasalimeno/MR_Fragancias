@@ -1,0 +1,351 @@
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+c:\users\ignacio\documents\visual studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Documents\Visual Studio 2012\Projects\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Mariano\Downloads\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\Ignacio\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Adm\Desktop\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Form_Reporte.resources
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\RdlCompile.cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\RdlCompile.compiled
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.ResolveComReference.cache
+C:\Users\Ignacio\Desktop\Ignacio\IGSA\MR\Código\MR-Fragancias (BB)\MR-Fragancias\obj\Debug\MR_Fragancias.BuscarPedidoMuestra.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.ResolveComReference.cache
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.BuscarPedidoMuestra.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Form_Reporte.resources
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\RdlCompile.cache
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\RdlCompile.compiled
+C:\Users\Adm\Documents\MR-Fragancias (bitbucket)\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Reporte_PorCliente.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Shared.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.Misc.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.SupportDialogs.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v12.1.FormulaBuilder.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinGrid.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinListView.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinTabControl.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinToolbars.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinTree.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.v12.1.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.CSharp.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.VisualBasic.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Data.DataSetExtensions.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Data.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Deployment.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Drawing.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Web.Services.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Windows.Forms.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Xml.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Xml.Linq.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.GridView.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.UI.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\TelerikCommon.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Shared.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.Misc.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.SupportDialogs.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v12.1.FormulaBuilder.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinGrid.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinListView.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinTabControl.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinToolbars.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinTree.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.v12.1.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.GridView.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.UI.xml
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.BuscarPedidoMuestra.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Form_Reporte.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Reporte_PorCliente.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Reporte_PorFragancia.resources
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\RdlCompile.cache
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\RdlCompile.compiled
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+\\Mac\Home\Documents\Ignacio\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe.config
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.ResolveComReference.cache
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csprojResolveAssemblyReference.cache
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.BuscarPedidoMuestra.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.CambiarPassword.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Costos_Historial.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Fragancias_Aplicaciones.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.InputBox.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Clientes.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Maestros.Fragancias.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.PedidoDeMuestra_Combinacion.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Principal.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Properties.Resources.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Form_Reporte.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Reporte_PorCliente.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR_Fragancias.Reportes.Reporte_PorFragancia.resources
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.csproj.GenerateResource.Cache
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\MR-Fragancias.exe.licenses
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.exe
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\MR-Fragancias.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Data.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Deployment.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Drawing.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Web.Services.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Windows.Forms.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Xml.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\System.Xml.Linq.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\TelerikCommon.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Negocio.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Shared.v12.1.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.SupportDialogs.v12.1.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v12.1.FormulaBuilder.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinEditors.v12.1.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinListView.v12.1.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinTabControl.v12.1.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Infragistics2.Win.UltraWinTree.v12.1.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\AccesoADatos.pdb
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\RdlCompile.cache
+C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\MR-Fragancias\obj\Debug\RdlCompile.compiled
