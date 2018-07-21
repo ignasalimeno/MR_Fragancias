@@ -30,6 +30,7 @@
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.btnAgregarFragancias = new Telerik.WinControls.UI.RadButton();
             this.btn_GuardarPedido = new Telerik.WinControls.UI.RadButton();
             this.btn_Cancelar = new Telerik.WinControls.UI.RadButton();
             this.gbox_Acciones = new Telerik.WinControls.UI.RadGroupBox();
@@ -65,11 +66,13 @@
             this.rb_BaseCliente_No = new Telerik.WinControls.UI.RadRadioButton();
             this.rb_BaseCliente_Si = new Telerik.WinControls.UI.RadRadioButton();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
+            this.btnQuitarFragancias = new Telerik.WinControls.UI.RadButton();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.btnAgregarFragancias)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btn_GuardarPedido)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btn_Cancelar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gbox_Acciones)).BeginInit();
@@ -108,6 +111,7 @@
             this.panel_BaseDelCliente.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.rb_BaseCliente_No)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.rb_BaseCliente_Si)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnQuitarFragancias)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this)).BeginInit();
             this.SuspendLayout();
             // 
@@ -133,6 +137,8 @@
             // 
             // splitContainer1.Panel1
             // 
+            this.splitContainer1.Panel1.Controls.Add(this.btnQuitarFragancias);
+            this.splitContainer1.Panel1.Controls.Add(this.btnAgregarFragancias);
             this.splitContainer1.Panel1.Controls.Add(this.btn_GuardarPedido);
             this.splitContainer1.Panel1.Controls.Add(this.btn_Cancelar);
             this.splitContainer1.Panel1.Controls.Add(this.gbox_Acciones);
@@ -145,6 +151,16 @@
             this.splitContainer1.Size = new System.Drawing.Size(1194, 698);
             this.splitContainer1.SplitterDistance = 218;
             this.splitContainer1.TabIndex = 6;
+            // 
+            // btnAgregarFragancias
+            // 
+            this.btnAgregarFragancias.Location = new System.Drawing.Point(995, 12);
+            this.btnAgregarFragancias.Name = "btnAgregarFragancias";
+            this.btnAgregarFragancias.Size = new System.Drawing.Size(104, 25);
+            this.btnAgregarFragancias.TabIndex = 18;
+            this.btnAgregarFragancias.Text = "Agregar fragancias";
+            this.btnAgregarFragancias.TextWrap = true;
+            this.btnAgregarFragancias.Click += new System.EventHandler(this.btnAgregarFragancias_Click);
             // 
             // btn_GuardarPedido
             // 
@@ -489,6 +505,16 @@
             this.rb_BaseCliente_Si.TabIndex = 0;
             this.rb_BaseCliente_Si.Text = "Si";
             // 
+            // btnQuitarFragancias
+            // 
+            this.btnQuitarFragancias.Location = new System.Drawing.Point(995, 43);
+            this.btnQuitarFragancias.Name = "btnQuitarFragancias";
+            this.btnQuitarFragancias.Size = new System.Drawing.Size(104, 25);
+            this.btnQuitarFragancias.TabIndex = 19;
+            this.btnQuitarFragancias.Text = "Quitar fragancias";
+            this.btnQuitarFragancias.TextWrap = true;
+            this.btnQuitarFragancias.Click += new System.EventHandler(this.btnQuitarFragancias_Click);
+            // 
             // PedidoDeMuestra_Combinacion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -509,6 +535,7 @@
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.btnAgregarFragancias)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btn_GuardarPedido)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btn_Cancelar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gbox_Acciones)).EndInit();
@@ -550,6 +577,7 @@
             this.panel_BaseDelCliente.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.rb_BaseCliente_No)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.rb_BaseCliente_Si)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnQuitarFragancias)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this)).EndInit();
             this.ResumeLayout(false);
 
@@ -594,6 +622,7 @@
         private Telerik.WinControls.UI.RadGroupBox gbox_Acciones;
         private Telerik.WinControls.UI.RadGroupBox gbox_InfoPedidoMuestra;
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
-
+        private Telerik.WinControls.UI.RadButton btnAgregarFragancias;
+        private Telerik.WinControls.UI.RadButton btnQuitarFragancias;
     }
 }

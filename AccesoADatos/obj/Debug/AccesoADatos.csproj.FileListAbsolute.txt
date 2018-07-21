@@ -37,3 +37,9 @@ C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\bin\Debug\AccesoADat
 C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
 C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
 C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache

@@ -273,7 +273,8 @@ namespace MR_Fragancias
         {
             if (this.MdiChildren.Length == 0)
             {
-                PedidoDeMuestra _pedidoMuestraForm = new PedidoDeMuestra();
+                //PedidoDeMuestra _pedidoMuestraForm = new PedidoDeMuestra();
+                PedidoDeMuestra_Combinacion _pedidoMuestraForm = new PedidoDeMuestra_Combinacion();
                 _pedidoMuestraForm.MdiParent = this;
                 _pedidoMuestraForm.Location = new Point(0, 0);
                 _pedidoMuestraForm.Show();

@@ -33,10 +33,10 @@ namespace MR_Fragancias
         }
 
         #region - Variables -
-
+        public bool pedidoNuevo;
         Fragancia _mifragancia = new Fragancia();
         int idObjetoActual = 0;
-        List<Fragancia> _listFraganciasSeleccionadas = new List<Fragancia>();
+        public List<Fragancia> _listFraganciasSeleccionadas = new List<Fragancia>();
 
         #endregion
 
@@ -149,7 +149,7 @@ namespace MR_Fragancias
 
         protected override void OnFormClosing(FormClosingEventArgs e)
         {
-            ((Principal)this.ParentForm).expandirBarra();
+            //((Principal)this.ParentForm).expandirBarra();
         }
 
         private void PedidoDeMuestra_Load(object sender, EventArgs e)
@@ -206,6 +206,8 @@ namespace MR_Fragancias
             dgw.Columns["FechaActCosto"].IsVisible = false;
 
             refrescarGrillaSeleccionados();
+
+            pedidoNuevo = true;
         }
 
         private void dgw_CellClick(object sender, Telerik.WinControls.UI.GridViewCellEventArgs e)
@@ -457,6 +459,133 @@ namespace MR_Fragancias
                 filtrar();
             }
         }
+        
+        private void btn_Cerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btn_VerAplicaciones_Click(object sender, EventArgs e)
+        {
+            Fragancias_Aplicaciones _apliForm = new Fragancias_Aplicaciones();
+            _apliForm.idFragancia = idObjetoActual;
+            _apliForm.ShowDialog();
+        }
+
+        protected override void OnSizeChanged(EventArgs e)
+        {
+            if (this.WindowState == FormWindowState.Maximized)
+            {
+                splitContainer1.SplitterDistance = 420;
+            }
+            base.OnSizeChanged(e);
+        }
+
+        private void dgw_ValueChanged(object sender, EventArgs e)
+        {
+            //RadCheckBoxEditor check_editor = sender as RadCheckBoxEditor;
+
+            //if (check_editor == null)
+            //    return;
+
+            //if ((bool)check_editor.Value == true)
+            //{
+            //    // You can make all other check boxes disabled here
+
+            //    Fragancia _newFrag = new Fragancia();
+            //    //_newFrag.idEstado = int.Parse(dgw.Rows[check_editor.ce].Cells["idFragancia"].Value.ToString());
+            //    //_newFrag.NombreReal = dgw.Rows[e.RowIndex].Cells["NombreReal"].Value.ToString();
+
+            //    _listFraganciasSeleccionadas.Add(_newFrag);
+
+            //    dgw_Seleccionados.DataSource = _listFraganciasSeleccionadas;
+            //}
+        }
+
+        private void dgw_CellValueChanged(object sender, GridViewCellEventArgs e)
+        {
+            RadCheckBoxEditor check_editor = sender as RadCheckBoxEditor;
+
+            if (check_editor == null)
+                return;
+
+            if ((bool)check_editor.Value == true)
+            {
+                // You can make all other check boxes disabled here
+
+                Fragancia _newFrag = new Fragancia();
+                _newFrag.idEstado = int.Parse(dgw.Rows[e.RowIndex].Cells["idFragancia"].Value.ToString());
+                _newFrag.NombreReal = dgw.Rows[e.RowIndex].Cells["NombreReal"].Value.ToString();
+
+                _listFraganciasSeleccionadas.Add(_newFrag);
+
+                dgw_Seleccionados.DataSource = _listFraganciasSeleccionadas;
+            }
+        }
+
+        private void dgw_CellEndEdit(object sender, GridViewCellEventArgs e)
+        {
+            int a = 0;
+
+        }
+
+        void dgw_CommandCellClick(object sender, EventArgs e)
+        {
+            GridCommandCellElement check_editor = sender as GridCommandCellElement;
+
+            //ARREGLAR dgw_CellClick(dgw, new Telerik.WinControls.UI.GridViewCellEventArgs(dgw.Rows[check_editor.RowIndex], dgw.Columns[check_editor.ColumnIndex]));
+
+            foreach (Fragancia item in _listFraganciasSeleccionadas)
+            {
+                if (item.idFragancia == int.Parse(dgw.Rows[check_editor.RowIndex].Cells["idFragancia"].Value.ToString()))
+                {
+                    MessageBox.Show("La fragancia ya está seleccionada.");
+                    refrescarGrillaSeleccionados();
+                    return;
+                }
+            }
+
+            Fragancia _newFrag = new Fragancia();
+            _newFrag.idFragancia = int.Parse(dgw.Rows[check_editor.RowIndex].Cells["idFragancia"].Value.ToString());
+            _newFrag.NombreReal = dgw.Rows[check_editor.RowIndex].Cells["NombreReal"].Value.ToString();
+            _newFrag.Costo = (txt_Costo.Text != "") ? float.Parse(txt_Costo.Text) : 0;
+
+            _listFraganciasSeleccionadas.Add(_newFrag);
+
+            refrescarGrillaSeleccionados();
+        }
+
+        void dgw_Seleccionados_CommandCellClick(object sender, EventArgs e)
+        {
+            GridCommandCellElement check_editor = sender as GridCommandCellElement;
+            _listFraganciasSeleccionadas.RemoveAt(check_editor.RowIndex);
+            refrescarGrillaSeleccionados();
+        }
+
+        private void btn_Continuar_Click(object sender, EventArgs e)
+        {
+            if (pedidoNuevo)
+            {
+                //PedidoDeMuestra_Combinacion _formNew = new PedidoDeMuestra_Combinacion();
+                //_formNew.listFraganciasSeleccionadas = _listFraganciasSeleccionadas;
+                //var result = _formNew.ShowDialog();
+                //if (result == System.Windows.Forms.DialogResult.OK)
+                //{
+                //    this.Close();
+                //}
+                this.Close();
+            }
+            else
+            {
+
+            }
+
+        }
+
+        private void dgw_RowsChanged(object sender, GridViewCollectionChangedEventArgs e)
+        {
+            lbl_Total.Text = "Cantidad de fragancias filtradas: " + dgw.RowCount.ToString();
+        }
 
         #endregion
 
@@ -690,116 +819,12 @@ namespace MR_Fragancias
             dgw.DataSource = dtResult;
         }
 
-        #endregion
-
-        private void btn_Cerrar_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-        private void btn_VerAplicaciones_Click(object sender, EventArgs e)
-        {
-            Fragancias_Aplicaciones _apliForm = new Fragancias_Aplicaciones();
-            _apliForm.idFragancia = idObjetoActual;
-            _apliForm.ShowDialog();
-        }
-
-        protected override void OnSizeChanged(EventArgs e)
-        {
-            if (this.WindowState == FormWindowState.Maximized)
-            {
-                splitContainer1.SplitterDistance = 420;
-            }
-            base.OnSizeChanged(e);
-        }
-
-        private void dgw_ValueChanged(object sender, EventArgs e)
-        {
-            //RadCheckBoxEditor check_editor = sender as RadCheckBoxEditor;
-
-            //if (check_editor == null)
-            //    return;
-
-            //if ((bool)check_editor.Value == true)
-            //{
-            //    // You can make all other check boxes disabled here
-
-            //    Fragancia _newFrag = new Fragancia();
-            //    //_newFrag.idEstado = int.Parse(dgw.Rows[check_editor.ce].Cells["idFragancia"].Value.ToString());
-            //    //_newFrag.NombreReal = dgw.Rows[e.RowIndex].Cells["NombreReal"].Value.ToString();
-
-            //    _listFraganciasSeleccionadas.Add(_newFrag);
-
-            //    dgw_Seleccionados.DataSource = _listFraganciasSeleccionadas;
-            //}
-        }
-
-        private void dgw_CellValueChanged(object sender, GridViewCellEventArgs e)
-        {
-            RadCheckBoxEditor check_editor = sender as RadCheckBoxEditor;
-
-            if (check_editor == null)
-                return;
-
-            if ((bool)check_editor.Value == true)
-            {
-                // You can make all other check boxes disabled here
-
-                Fragancia _newFrag = new Fragancia();
-                _newFrag.idEstado = int.Parse(dgw.Rows[e.RowIndex].Cells["idFragancia"].Value.ToString());
-                _newFrag.NombreReal = dgw.Rows[e.RowIndex].Cells["NombreReal"].Value.ToString();
-
-                _listFraganciasSeleccionadas.Add(_newFrag);
-
-                dgw_Seleccionados.DataSource = _listFraganciasSeleccionadas;
-            }
-        }
-
-        private void dgw_CellEndEdit(object sender, GridViewCellEventArgs e)
-        {
-            int a = 0;
-
-        }
-
-        void dgw_CommandCellClick(object sender, EventArgs e)
-        {
-            GridCommandCellElement check_editor = sender as GridCommandCellElement;
-
-            //ARREGLAR dgw_CellClick(dgw, new Telerik.WinControls.UI.GridViewCellEventArgs(dgw.Rows[check_editor.RowIndex], dgw.Columns[check_editor.ColumnIndex]));
-         
-            foreach (Fragancia item in _listFraganciasSeleccionadas)
-            {
-                if (item.idFragancia == int.Parse(dgw.Rows[check_editor.RowIndex].Cells["idFragancia"].Value.ToString()))
-                {
-                    MessageBox.Show("La fragancia ya está seleccionada.");
-                    refrescarGrillaSeleccionados();
-                    return;
-                }
-            }
-
-            Fragancia _newFrag = new Fragancia();
-            _newFrag.idFragancia = int.Parse(dgw.Rows[check_editor.RowIndex].Cells["idFragancia"].Value.ToString());
-            _newFrag.NombreReal = dgw.Rows[check_editor.RowIndex].Cells["NombreReal"].Value.ToString();
-            _newFrag.Costo = (txt_Costo.Text != "") ? float.Parse(txt_Costo.Text) : 0;
-            
-            _listFraganciasSeleccionadas.Add(_newFrag);
-
-            refrescarGrillaSeleccionados();
-        }
-
-        void dgw_Seleccionados_CommandCellClick(object sender, EventArgs e)
-        {
-            GridCommandCellElement check_editor = sender as GridCommandCellElement;
-            _listFraganciasSeleccionadas.RemoveAt(check_editor.RowIndex);
-            refrescarGrillaSeleccionados();
-        }
-
         void refrescarGrillaSeleccionados()
         {
             DataTable dt = new DataTable();
             dt.Columns.Add("idFragancia");
             dt.Columns.Add("NombreReal");
-            
+
             try
             {
                 foreach (Fragancia item in _listFraganciasSeleccionadas)
@@ -821,26 +846,12 @@ namespace MR_Fragancias
             }
             catch (Exception)
             {
-                
+
                 throw;
             }
         }
-
-        private void btn_Continuar_Click(object sender, EventArgs e)
-        {
-            PedidoDeMuestra_Combinacion _formNew = new PedidoDeMuestra_Combinacion();
-            _formNew.listFraganciasSeleccionadas = _listFraganciasSeleccionadas;
-            var result = _formNew.ShowDialog();
-            if (result == System.Windows.Forms.DialogResult.OK)
-            {
-                this.Close();
-            }
-
-        }
-
-        private void dgw_RowsChanged(object sender, GridViewCollectionChangedEventArgs e)
-        {
-            lbl_Total.Text = "Cantidad de fragancias filtradas: " + dgw.RowCount.ToString();
-        }
-    }
+        
+        #endregion
+  
+ }
 }

@@ -68,3 +68,12 @@ C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\bin\Debug\AccesoADatos.pd
 C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.dll
 C:\Users\ignas\Desktop\Bitbucket\MR-Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\bin\Debug\Negocio.dll
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\obj\Debug\Negocio.dll
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ignas\Documents\Desarrollos\MR_Fragancias\Negocio\obj\Debug\Negocio.csproj.CopyComplete

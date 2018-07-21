@@ -58,7 +58,7 @@
             // 
             this.radLabel2.Location = new System.Drawing.Point(12, 12);
             this.radLabel2.Name = "radLabel2";
-            this.radLabel2.Size = new System.Drawing.Size(142, 18);
+            this.radLabel2.Size = new System.Drawing.Size(144, 16);
             this.radLabel2.TabIndex = 0;
             this.radLabel2.Text = "Ingrese el nuevo password:";
             // 
@@ -66,7 +66,7 @@
             // 
             this.radLabel3.Location = new System.Drawing.Point(18, 49);
             this.radLabel3.Name = "radLabel3";
-            this.radLabel3.Size = new System.Drawing.Size(136, 18);
+            this.radLabel3.Size = new System.Drawing.Size(139, 16);
             this.radLabel3.TabIndex = 0;
             this.radLabel3.Text = "Repita el nueva password:";
             // 
@@ -77,6 +77,7 @@
             this.txt_Pass1.PasswordChar = '*';
             this.txt_Pass1.Size = new System.Drawing.Size(195, 20);
             this.txt_Pass1.TabIndex = 1;
+            this.txt_Pass1.TabStop = false;
             // 
             // txt_Pass2
             // 
@@ -85,6 +86,7 @@
             this.txt_Pass2.PasswordChar = '*';
             this.txt_Pass2.Size = new System.Drawing.Size(195, 20);
             this.txt_Pass2.TabIndex = 2;
+            this.txt_Pass2.TabStop = false;
             this.txt_Pass2.TextChanged += new System.EventHandler(this.txt_Pass2_TextChanged);
             // 
             // lbl_PassNoIguales
@@ -92,7 +94,11 @@
             this.lbl_PassNoIguales.ForeColor = System.Drawing.Color.Red;
             this.lbl_PassNoIguales.Location = new System.Drawing.Point(201, 75);
             this.lbl_PassNoIguales.Name = "lbl_PassNoIguales";
-            this.lbl_PassNoIguales.Size = new System.Drawing.Size(157, 18);
+            // 
+            // 
+            // 
+            this.lbl_PassNoIguales.RootElement.ForeColor = System.Drawing.Color.Red;
+            this.lbl_PassNoIguales.Size = new System.Drawing.Size(161, 16);
             this.lbl_PassNoIguales.TabIndex = 2;
             this.lbl_PassNoIguales.Text = "Los passwords no son iguales!";
             this.lbl_PassNoIguales.Visible = false;
@@ -101,7 +107,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(367, 146);
+            this.ClientSize = new System.Drawing.Size(367, 140);
             this.Controls.Add(this.lbl_PassNoIguales);
             this.Controls.Add(this.radLabel2);
             this.Controls.Add(this.radLabel3);

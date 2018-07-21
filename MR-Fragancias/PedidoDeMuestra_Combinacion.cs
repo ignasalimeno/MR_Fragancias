@@ -20,7 +20,7 @@ namespace MR_Fragancias
 
         #region - Variables -
 
-        public List<Fragancia> listFraganciasSeleccionadas;
+        public List<Fragancia> listFraganciasSeleccionadas = new List<Fragancia>();
         int primerFragancia = -99;
         string segundaFragancia = "-99";
         int idFragComb = 1;
@@ -45,6 +45,7 @@ namespace MR_Fragancias
         {
             if (tipoConsulta == "nuevo")
             {
+                btnAgregarFragancias.PerformClick();
                 refrescarGrillaSeleccionados();
             }
 
@@ -351,6 +352,26 @@ namespace MR_Fragancias
                 }
             }
 
+
+            if (btn_AceptarCombinacion.Tag == "quitar") //Si estoy eliminando una fragancia
+            {
+                for (int i = 0; i < dataGridView1.Rows.Count; i++)
+                {
+                    if (dataGridView1.Rows[i].Cells["Seleccionar"].Value != null)
+                    {
+                        if (dataGridView1.Rows[i].Cells["Seleccionar"].Value.ToString() == "True")
+                        {
+                            if (dataGridView1.Rows[i].Cells["idFragComb"].Value.ToString() == "")
+                            {
+                                listFraganciasSeleccionadas.RemoveAt(i);
+                            }
+                        }
+                    }
+                }
+
+                refresecarVisualGrilla();
+                btn_CancelarCombinacion.PerformClick();
+            }
         }
 
         private void btn_CancelarCombinacion_Click(object sender, EventArgs e)
@@ -748,6 +769,72 @@ namespace MR_Fragancias
             //======================================================
             //--- Tratamiento sobre los datos de la grilla
             DataTable dtNew = (DataTable)dataGridView1.DataSource;
+
+            if (dtNew == null)
+            {
+                refrescarGrillaSeleccionados();
+                return;
+            }
+
+            //Chequeo si se eliminaron fragancias
+            for (int i = 0; i < dtNew.Rows.Count; i++)
+            {
+                bool existeFrag = false;
+                foreach (Fragancia item in listFraganciasSeleccionadas)
+                {
+                    int _idFrag = 0;
+                    bool conversion = int.TryParse(dtNew.Rows[i]["idFragancia"].ToString(), out _idFrag);
+                    if (conversion)
+                    { 
+                        if (item.idFragancia == int.Parse(dtNew.Rows[i]["idFragancia"].ToString()))
+                        {
+                            existeFrag = true;
+                        }
+                    }
+                    else { existeFrag = true; }
+                }
+                if (!existeFrag)
+                {
+                    dtNew.Rows[i].Delete();
+                }
+            }
+
+            //Chequeo si se agregaron fragancias
+            foreach (Fragancia item in listFraganciasSeleccionadas)
+            {
+                bool existeFrag = false;
+                for (int i = 0; i < dtNew.Rows.Count; i++)
+                {
+                    int _idFrag = 0;
+                    bool conversion = int.TryParse(dtNew.Rows[i]["idFragancia"].ToString(), out _idFrag);
+                    if (conversion)
+                    {
+                        if (item.idFragancia == _idFrag)
+                        {
+                            existeFrag = true;
+                            break;
+                        }
+                    }
+                }
+                if (!existeFrag)
+                {
+                    DataRow drow = dtNew.NewRow();
+                    drow["Nombre"] = item.NombreReal;
+                    drow["idFragancia"] = item.idFragancia;
+                    drow["NombreReal"] = item.NombreReal;
+                    drow["Porcentaje"] = 100;
+                    drow["Costo"] = item.Costo;
+                    drow["CostoCalculado"] = item.Costo;
+                    drow["CostoComb"] = item.Costo;
+                    drow["Gramos"] = txt_Gramos.Text;
+                    drow["Markup"] = 0;
+                    drow["PrecioVta"] = txt_Costo.Text;
+                    dtNew.Rows.Add(drow);
+                }
+            }
+
+
+
 
             for (int i = 0; i < dtNew.Rows.Count - 1; i++)
             {
@@ -1303,8 +1390,38 @@ namespace MR_Fragancias
             
         }
 
+        private void btnAgregarFragancias_Click(object sender, EventArgs e)
+        {
+            PedidoDeMuestra miPedido = new PedidoDeMuestra();
+            miPedido._listFraganciasSeleccionadas = listFraganciasSeleccionadas;
+            miPedido.ShowDialog();
+            listFraganciasSeleccionadas = miPedido._listFraganciasSeleccionadas;
+            refresecarVisualGrilla();
+        }
 
-        
+        private void btnQuitarFragancias_Click(object sender, EventArgs e)
+        {
+            DataGridViewCheckBoxColumn selColumn = new DataGridViewCheckBoxColumn();
+            selColumn.Name = "Seleccionar";
+            dataGridView1.Columns.Add(selColumn);
 
+            dataGridView1.AutoGenerateColumns = false;
+
+            foreach (DataGridViewRow drow in dataGridView1.Rows)
+            {
+                if (drow.Cells["idComb"].Value.ToString() != "")
+                {
+                    drow.Cells["Seleccionar"].ReadOnly = true;
+                }
+            }
+            btn_Combinar.Enabled = false;
+            btn_AgregarDPG.Enabled = false;
+            btn_AceptarCombinacion.Visible = true;
+            btn_AceptarCombinacion.Tag = "quitar";
+            btn_CancelarCombinacion.Visible = true;
+            btn_Descombinar.Enabled = false;
+            btn_QuitarDPG.Enabled = false;
+
+        }
     }
 }

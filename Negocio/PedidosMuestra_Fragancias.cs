@@ -43,7 +43,7 @@ namespace Negocio
                 str = str + miFragancia.CostoCalculado.ToString().Replace(',', '.') + ", ";
                 str = str + miFragancia.CostoComb.ToString().Replace(',', '.') + ", ";
                 str = str + miFragancia.Gramos.ToString().Replace(',', '.').ToString().Replace(',','.') + ", ";
-                if (miFragancia.Markup.ToString() == "Infinito")
+                if (miFragancia.Markup.ToString() == "Infinito" || miFragancia.Markup.ToString() == "∞")
                 {
                     miFragancia.Markup = 0;
                 
